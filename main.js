@@ -13,6 +13,7 @@ import "./public/src/styles/utills.css";
 import mobileNav from "./public/src/utills/mobile-nav";
 import themeToggle from "./public/src/utills/theme-toggle";
 import lazyLoading from "./public/src/utills/lazy-loading";
+
 mobileNav();
 themeToggle();
 lazyLoading();
